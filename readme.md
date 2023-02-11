@@ -1,12 +1,14 @@
-# Employee Tracker
+# MERN-Book-Search-Engine
 
  ## 📖 Description
 
- #### This is the employee tracker, here the users will be able to add department,
- #### roles, and employees. the project is not done yet however in the near future
- #### it will have all its functionality.
- 
- ![Screenshot 2023-01-30 at 5 44 52 PM](https://user-images.githubusercontent.com/77306236/215613601-506acfe2-f3b2-43a2-9a96-2539c7719640.png)
+#### In this challenge we were given a fully functioning Google Books API search 
+#### engine built with a RESTful API, and the taks was to refactor it to be a GraphQL API built 
+#### with Apollo Server. The app was built using the MERN stack with a React 
+#### front end, MongoDB database, and Node.js/Express.js server and API. 
+
+![Screenshot](/Users/americano/Desktop/Homework/MERN-Book-Search-Engine/client/public/Screenshot 2023-02-10 at 8.41.31 PM.png)
+ ![Screenshot](/Users/americano/Desktop/Homework/MERN-Book-Search-Engine/client/public/Screenshot 2023-02-10 at 8.15.15 PM.png)
 
   ## Table of Contents
 * [Installation](#Installation)
@@ -16,13 +18,13 @@
 * [Test](#Test)
 * [Questions](#Questions)
 
-### 🛠 Installation
+## 🛠 Installation
 
-#### Technologia used
-###### MYSQL, NODE.JS, JAVASCRIPT
+### Deployed app Url: https://andre-book-search.herokuapp.com/
 
 ## Usage
-#### Check the Walkthrough Video:  https://watch.screencastify.com/v/nafyWuYWpvc4vwMgffo7
+
+### Sing up, username, email, password
 
 ## ⚖️ License
 #### N/A
