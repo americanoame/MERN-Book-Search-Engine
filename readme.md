@@ -7,9 +7,9 @@
 #### with Apollo Server. The app was built using the MERN stack with a React 
 #### front end, MongoDB database, and Node.js/Express.js server and API. 
 
-![Screenshot](/Users/americano/Desktop/Homework/MERN-Book-Search-Engine/client/public/Screenshot 2023-02-10 at 8.41.31 PM.png)
+![Screenshot](/client/public/screenshot1.png)
 
-![Screenshot](/Users/americano/Desktop/Homework/MERN-Book-Search-Engine/client/public/Screenshot 2023-02-10 at 8.15.15 PM.png)
+![Screenshot](/client/public/screenhot2.png)
 
   ## Table of Contents
 * [Installation](#Installation)
