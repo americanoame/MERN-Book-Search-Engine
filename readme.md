@@ -8,7 +8,8 @@
 #### front end, MongoDB database, and Node.js/Express.js server and API. 
 
 ![Screenshot](/Users/americano/Desktop/Homework/MERN-Book-Search-Engine/client/public/Screenshot 2023-02-10 at 8.41.31 PM.png)
- ![Screenshot](/Users/americano/Desktop/Homework/MERN-Book-Search-Engine/client/public/Screenshot 2023-02-10 at 8.15.15 PM.png)
+
+![Screenshot](/Users/americano/Desktop/Homework/MERN-Book-Search-Engine/client/public/Screenshot 2023-02-10 at 8.15.15 PM.png)
 
   ## Table of Contents
 * [Installation](#Installation)
