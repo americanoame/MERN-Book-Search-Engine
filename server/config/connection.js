@@ -5,4 +5,6 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/andresilva', {
   useUnifiedTopology: true,
 });
 
-module.exports = mongoose.connection;
+// HEROKU AGAIN
+
+module.exports = mongoose.connection; 
